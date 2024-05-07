@@ -1,1 +1,3 @@
 Dal-B'dan dosya1 değişikliği
+Dal-A'dan dosya1 değişikliği
+

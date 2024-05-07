@@ -1,1 +1,1 @@
-main'den dosya2 değişikliği
+Dal-B'den dosya2 değişikliği
